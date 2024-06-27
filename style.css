@@ -61,3 +61,13 @@ footer {
     font-size: 24px;
     color: black;
 }
+
+@media screen  and (max-width: 720px)  {
+
+body {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+}
