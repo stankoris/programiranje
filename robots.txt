@@ -1,0 +1,4 @@
+User-agent: *
+Dissalow:
+
+Sitemap: https://stanko101.github.io/programiranje/sitemap.xml
